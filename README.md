@@ -81,7 +81,7 @@ _去 [博客](https://www.chenjingyi.top) 看看吧_
 
 <div align="center">
 
-_"写代码和写博客一样——最难的永远是开头那行。"_
+_"写代码和做任何事一样——最难的永远是开头那行。"_
 
 ![Visitors](https://komarev.com/ghpvc/?username=shadow-of-light123&color=58a6ff&style=for-the-badge)
 
